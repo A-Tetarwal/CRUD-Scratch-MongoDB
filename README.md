@@ -14,12 +14,12 @@ This project is a basic CRUD (Create, Read, Update, Delete) application built wi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/A-Tetarwal/Mil-Lo-Na.git
+   git clone https://github.com/A-Tetarwal/CRUD-Scratch-MongoDB.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd Mil-Lo-Na
+   cd CRUD-Scratch-MongoDB
    ```
 
 3. Install dependencies:
